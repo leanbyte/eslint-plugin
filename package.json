@@ -1,0 +1,25 @@
+{
+  "name": "eslint-plugin-leanbyte",
+  "version": "0.1.0",
+  "description": "Lint rules and configs for leanbyte",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lint",
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Raphael Luba <raphael@leanbyte.com>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "eslint": "^6.1.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=6"
+  },
+  "dependencies": {
+    "babel-eslint": "^10.0.3"
+  }
+}
